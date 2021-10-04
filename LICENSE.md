@@ -1,9 +1,10 @@
-# MisileLab Kotlin License
+MisileLab License V1.4
 ```
-IntWithPlugin by __int & MisileLab
+Author Information : Project by Author
 ```
-## You can
-You can include file in this project to your open source project.
-## Condition
-You need to write author information to your project readme file.  
-You need to change your project license to this license.
+# You can
+Include file with this license in project.
+# Condition
+You need to change project to open source project or get permission for private project from project author.
+You need to give author information to other like this. ex) {Project or File Name} by {author}
+Author doesn't have warranty.
